@@ -1,0 +1,26 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot main_behav xil_defaultlib.main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.MPG [mpg_default]
+Compiling architecture behavioral of entity xil_defaultlib.full_adder [full_adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.full_adder_8bits [full_adder_8bits_default]
+Compiling architecture behavioral of entity xil_defaultlib.addition [addition_default]
+Compiling architecture behavioral of entity xil_defaultlib.complement [complement_default]
+Compiling architecture behavioral of entity xil_defaultlib.half_adder [half_adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.wallace [wallace_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.SSD [ssd_default]
+Compiling architecture behavioral of entity xil_defaultlib.main
+Built simulation snapshot main_behav

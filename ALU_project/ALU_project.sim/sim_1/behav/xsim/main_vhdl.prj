@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ALU_project.srcs/sources_1/new/ALU.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/MPG.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/SSD.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/addition.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/complement.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/full_adder.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/full_adder_8bits.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/half_adder.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/wallace.vhd" \
+"../../../../ALU_project.srcs/sources_1/new/tb.vhd" \
+
+# Do not sort compile order
+nosort
